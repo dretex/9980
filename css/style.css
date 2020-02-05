@@ -164,6 +164,7 @@ align-items: center;
 .text-head{
     max-width: 506px;
     max-height: 295px;   
+    z-index: 199;
 }
 .text-up{
 color: #FFFFFF;
@@ -182,6 +183,7 @@ color: #250F8A;
 background-color: #FFCA00;
 border-radius: 25px;
 padding: 13px 39px;
+z-index: 200;
 }
 .section1{
     margin-top: 40px;
